@@ -16,9 +16,22 @@
         "type": "github"
       }
     },
+    "npmlock2nix": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-CxEDFT8Gd5hPyrmf+FKhNOWdPjvSvBFYDDqCougBBhA=",
+        "path": "/home/hugosum/npmlock2nix",
+        "type": "path"
+      },
+      "original": {
+        "path": "/home/hugosum/npmlock2nix",
+        "type": "path"
+      }
+    },
     "root": {
       "inputs": {
-        "nixpkgs": "nixpkgs"
+        "nixpkgs": "nixpkgs",
+        "npmlock2nix": "npmlock2nix"
       }
     }
   },
