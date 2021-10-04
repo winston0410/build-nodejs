@@ -2,7 +2,8 @@
   inputs = {
     nixpkgs = { url = "github:nixos/nixpkgs/nixos-unstable"; };
     npmlock2nix = {
-      url = "path:/home/hugosum/npmlock2nix";
+      # url = "path:/home/hugosum/npmlock2nix";
+      url = "github:nix-community/npmlock2nix";
       flake = false;
     };
   };

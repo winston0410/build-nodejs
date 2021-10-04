@@ -19,13 +19,17 @@
     "npmlock2nix": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-CxEDFT8Gd5hPyrmf+FKhNOWdPjvSvBFYDDqCougBBhA=",
-        "path": "/home/hugosum/npmlock2nix",
-        "type": "path"
+        "lastModified": 1631558099,
+        "narHash": "sha256-xguvgtrIQHPxpc4J6EhfBnYtQDGJpt6hK1dN7KEi8R4=",
+        "owner": "nix-community",
+        "repo": "npmlock2nix",
+        "rev": "33eb3300561d724da64a46ab8e9a05a9cfa9264b",
+        "type": "github"
       },
       "original": {
-        "path": "/home/hugosum/npmlock2nix",
-        "type": "path"
+        "owner": "nix-community",
+        "repo": "npmlock2nix",
+        "type": "github"
       }
     },
     "root": {
